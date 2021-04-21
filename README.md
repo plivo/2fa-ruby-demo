@@ -9,19 +9,19 @@ In other languages:
 <table>
    <tr>
       <td>.Net</td>
-      <td><a href="https://github.com/plivo-dev/2FA_Csharp">Done</a></td>
+      <td><a href="https://github.com/plivo/2fa-dotnet-demo">Done</a></td>
    </tr>
    <tr>
       <td>Python</td>
-      <td><a href="https://github.com/plivo-dev/2FA_FlaskApp">Done</a></td>
+      <td><a href="https://github.com/plivo/2fa-python-demo">Done</a></td>
    </tr>
    <tr>
-      <td>NodeJS</td>
-      <td><a href="https://github.com/plivo-dev/2FA_ExpressApp">Done</a></td>
+      <td>Node.js</td>
+      <td><a href="https://github.com/plivo/2fa-node-demo">Done</a></td>
    </tr>
    <tr>
       <td>PHP</td>
-      <td><a href="https://github.com/plivo-dev/2FA_PHP">Done</a></td>
+      <td><a href="https://github.com/plivo/2fa-php-demo">Done</a></td>
    </tr>
 </table>
 
@@ -38,11 +38,11 @@ This application verifies your phone number using the two factor authentication 
 
 1. Clone this repo.
     ```shell
-    git clone git@github.com:plivo-dev/2FA_SinatraApp.git    
+    git clone git@github.com:plivo/2fa-ruby-demo.git    
     ```
-2. Change your working directory to 2FA_SinatraApp
+2. Change your working directory to 2fa-ruby-demo
     ```shell
-    cd 2FA_SinatraApp
+    cd 2fa-ruby-demo
     ```
 3. Install the dependencies using the `Gemfile`. You can use the below command.
     ```shell
