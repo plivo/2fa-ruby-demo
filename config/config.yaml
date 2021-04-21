@@ -1,0 +1,10 @@
+credentials:
+  auth_id: "PLIVO_AUTH_ID"
+  auth_token: "PLIVO_AUTH_TOKEN"
+
+
+app_number: "PLIVO_NUMBER"
+phlo_id: null
+
+redis:
+  redis_url: redis://localhost:6379
